@@ -28,7 +28,7 @@ pip install requests
 2. Run the script:
 
 ```bash
-python check_subdomains.py
+python check_live_subdomains.py
 ```
 
 3. Results will be saved in `results.csv` with the following columns:
@@ -49,7 +49,7 @@ python check_subdomains.py
 Run the script:
 
 ```bash
-python check_subdomains.py
+python check_live_subdomains.py
 ```
 
 Sample output in `results.csv`:
