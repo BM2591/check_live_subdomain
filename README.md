@@ -1,4 +1,4 @@
-# Concurrent Subdomain Checker
+# Subdomain Checker
 
 A Python script to check if subdomains are live by sending HTTP HEAD requests concurrently with retries and logging HTTP status codes.
 
